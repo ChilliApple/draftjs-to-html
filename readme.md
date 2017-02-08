@@ -54,4 +54,4 @@ Following is the list of conversions it supports:
 
 
 ## License
-MIT.
+[MIT](https://opensource.org/licenses/MIT).
